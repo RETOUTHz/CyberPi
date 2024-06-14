@@ -1,2 +1,2 @@
 # Mbuild for Cyberpi
-<img src = "https://logicsacademy.com/wp-content/uploads/2021/09/tech-1-1.jpg">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsCv0fHbd5LUVo15QRJwHQg0EfCIpdFNleg&s">
