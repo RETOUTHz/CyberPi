@@ -18,4 +18,4 @@ The **CyperPi Control Library** is a comprehensive Python library designed for c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RETOUTHz/CyberPi
+   git clone https://github.com/RETOUTHz/CyberPi_Library
